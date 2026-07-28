@@ -441,8 +441,7 @@ hub.opensciencegrid.org/htcondor/hpc-annex-pilot:el8
 hub.opensciencegrid.org/htcondor/hpc-annex-pilot:latest
 
 # LIGO/VIRGO/KAGRA - Software - LALSuite
-# - temporary location, will eventually be replaced by igwn/lalsuite
-kwwette/lalsuite:*
+igwn/lalsuite:*
 
 # LIGO/VIRGO/KAGRA - Software - BayesWave
 containers.ligo.org/lscsoft/bayeswave:latest

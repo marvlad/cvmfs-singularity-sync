@@ -404,6 +404,7 @@ fermilab/benchmark:*
 
 # NOvA Experiment
 ghcr.io/novaexperiment/el7-tensorflow-gpu:latest
+ghcr.io/novaexperiment/nova-claude:latest
 ghcr.io/novaexperiment/nova-sl7-novat2k:2020-10-27_freeze
 ghcr.io/novaexperiment/nova-sl7-novat2k:aborttest
 ghcr.io/novaexperiment/nova-sl7-novat2k:latest
